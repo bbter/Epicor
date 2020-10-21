@@ -1,0 +1,2 @@
+(this.webpackJsonpepic=this.webpackJsonpepic||[]).push([[7],{320:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n);t.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("h2",null,r.a.createElement("a",{href:"https://github.com/bbter",target:"_blank"},"\u6211\u7684GitHub")),r.a.createElement("h2",null,r.a.createElement("a",{href:"https://juejin.im/user/2172290708551917/posts",target:"_blank"},"\u6211\u7684\u535a\u5ba2")))}}}]);
+//# sourceMappingURL=7.22d63cdc.chunk.js.map
